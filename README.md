@@ -22,15 +22,6 @@ This repository contains a dataset documenting significant events in the Ukraine
 
 ---
 
-### 📊 **Applications**
-This dataset is suitable for:
-- Researchers analyzing the timeline of the Ukraine-Russia conflict.
-- Media analysts studying coverage trends across outlets.
-- Educators and students exploring modern geopolitics.
-- Data scientists performing sentiment or trend analysis.
-
----
-
 ### 🔗 **Usage**
 1. Download the Excel file:
    - Click on **`Key_Events_Ukraine_Russia_Conflict.xlsx`** in the repository.
@@ -72,5 +63,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ### 📬 **Contact**
 For questions, suggestions, or collaboration, feel free to reach out:
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
+- **Email**: [obada.kraishan@gmail.com](mailto:obada.kraishan@gmail.com)
 - **GitHub Issues**: Open an issue in this repository.
